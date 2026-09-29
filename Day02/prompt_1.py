@@ -4,7 +4,7 @@ response = ollama.chat(
     messages=[
         {
             "role": "user",
-            "content":"Explain ai in 6 lines"
+            "content":"Explain ai in 3-4 lines"
         }
     ]
 )
