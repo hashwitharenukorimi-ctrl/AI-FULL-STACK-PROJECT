@@ -53,7 +53,7 @@ while True:
         }
     )
     print("AI:",response["message"]["content"])
-    print("-------Chat History---\n")
+    print("---Chat History---\n")
 for msg in msgs:
     if msg["role"] == "system":
         break
