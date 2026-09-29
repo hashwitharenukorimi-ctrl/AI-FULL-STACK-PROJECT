@@ -2,4 +2,3 @@
 .venv/
 __pycachce__/
 *.pyc
-.env
